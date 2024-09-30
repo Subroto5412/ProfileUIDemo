@@ -106,10 +106,6 @@ private fun profile(){
                     start.linkTo(parent.start, margin = 24.dp)
                 })
 
-
-            //Hello testing
-
-
             Image(
                 painterResource(R.drawable.write),
                 contentDescription = null,
